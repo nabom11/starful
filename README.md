@@ -1,4 +1,4 @@
-# Spring, JPA를 활용한 홈페이지 제작
+# Spring, JPA를 활용한 홈페이지 제작 [진행중]
 
 ### 메인 화면
 ![main](https://user-images.githubusercontent.com/95290996/161718892-0c394652-49db-4245-8ccd-6a268b4af1df.PNG)
